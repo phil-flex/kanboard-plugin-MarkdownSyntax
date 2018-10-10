@@ -1,5 +1,5 @@
 /* PrismJS 1.15.0
-https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+actionscript+apacheconf+applescript+c+csharp+bash+basic+batch+cpp+aspnet+coffeescript+ruby+css-extras+diff+docker+markup-templating+fsharp+git+go+groovy+less+http+hpkp+hsts+ini+java+json+kotlin+markdown+nginx+objectivec+pascal+perl+php+php-extras+sql+powershell+properties+puppet+python+jsx+typescript+rust+scala+plsql+swift+yaml+tsx+vbnet+vim+visual-basic+wiki+xquery&plugins=toolbar+show-language+copy-to-clipboard */
+https://prismjs.com/download.html#themes=prism&languages=markup+css+clike+javascript+actionscript+apacheconf+applescript+c+csharp+bash+basic+batch+cpp+aspnet+coffeescript+ruby+css-extras+diff+docker+markup-templating+fsharp+git+go+groovy+less+http+hpkp+hsts+ini+java+json+kotlin+markdown+nginx+objectivec+pascal+perl+php+php-extras+sql+powershell+properties+puppet+python+jsx+typescript+rust+scala+plsql+swift+yaml+tsx+vbnet+vim+visual-basic+wiki+xquery&plugins=autolinker+toolbar+show-language+copy-to-clipboard */
 /**
  * prism.js default theme for JavaScript, CSS and HTML
  * Based on dabblet (http://dabblet.com)
@@ -139,6 +139,9 @@ pre[class*="language-"] {
 	cursor: help;
 }
 
+.token a {
+	color: inherit;
+}
 div.code-toolbar {
 	position: relative;
 }
