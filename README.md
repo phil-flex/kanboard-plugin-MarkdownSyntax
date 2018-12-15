@@ -40,8 +40,8 @@ Contributing or modifying the theme
 ------------
 Clone the repository:
 ```console
-git clone https://github.com/kenlog/MarkdownSyntax.git
+git clone https://github.com/phil-flex/kanboard-plugin-MarkdownSyntax.git
 ```
 Reporting Issues
 ------------
-Please [create an issue](https://github.com/phil-flex/MarkdownSyntax/issues) for any bugs you've found.
+Please [create an issue](https://github.com/phil-flex/kanboard-plugin-MarkdownSyntax/issues) for any bugs you've found.

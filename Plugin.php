@@ -43,7 +43,7 @@ class Plugin extends Base
 
     public function getPluginHomepage()
     {
-        return 'https://github.com/phil-flex/MarkdownSyntax';
+        return 'https://github.com/phil-flex/kanboard-plugin-MarkdownSyntax';
     }
 
 }
