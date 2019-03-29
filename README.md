@@ -28,14 +28,13 @@ Syntax highlighting for Markdown code
 ------------
 151 languages currently supported by Prism, with their corresponding alias, to use in place of xxxx
 
--```
-+```sql
+```sql
 select *
 from table2
 where 1=2
 go
-+```
 ```
+
 Contributing or modifying the theme
 ------------
 Clone the repository:
